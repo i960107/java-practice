@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ìç”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¶‹øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã­†¨øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ìç”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã­†¨øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(´Åˆïùÿÿÿÿ
+=
+java:S1068"'Remove this unused "num" private field.(–ÒŒì
+F
+java:S1068"+Remove this unused "inClass" private field.(†ŸêĞûÿÿÿÿ

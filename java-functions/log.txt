@@ -1,0 +1,28 @@
+5월 23, 2023 5:19:24 오후 exception.MyLogger log
+가장 미세: log test
+5월 23, 2023 5:19:24 오후 exception.MyLogger log
+보다 미세: log test
+5월 23, 2023 5:19:24 오후 exception.MyLogger log
+미세: log test
+5월 23, 2023 5:19:24 오후 exception.MyLogger log
+구성: log test
+5월 23, 2023 5:19:24 오후 exception.MyLogger log
+정보: log test
+5월 23, 2023 5:19:24 오후 exception.MyLogger log
+경고: log test
+5월 23, 2023 5:19:24 오후 exception.MyLogger log
+심각: log test
+5월 23, 2023 8:08:41 오후 exception.MyLogger log
+가장 미세: log test
+5월 23, 2023 8:08:41 오후 exception.MyLogger log
+보다 미세: log test
+5월 23, 2023 8:08:41 오후 exception.MyLogger log
+미세: log test
+5월 23, 2023 8:08:41 오후 exception.MyLogger log
+구성: log test
+5월 23, 2023 8:08:41 오후 exception.MyLogger log
+정보: log test
+5월 23, 2023 8:08:41 오후 exception.MyLogger log
+경고: log test
+5월 23, 2023 8:08:41 오후 exception.MyLogger log
+심각: log test

@@ -1,0 +1,10 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Ïóş¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(×¬œÓ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ8¾Éß„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿ8£şß„1
+>	java:S108")Either remove or fill this block of code.(×¬œÓ
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8Òì„1

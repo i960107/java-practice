@@ -1,0 +1,11 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(µ¤±şÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.( ùÖşÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "actualConcat".(µ¤±şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬»“Ë
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( ùÖşÿÿÿÿ8©Œö‚1
+L
+java:S1481"1Remove this unused "actualConcat" local variable.(µ¤±şÿÿÿÿ

@@ -1,0 +1,13 @@
+
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Öôîœ
+Y
+java:S1612&">Replace this lambda with method reference 'Customer::getName'.(’¶¥üÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(’¶¥üÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Œ¥ô™
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(•åæÈ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(þëÇ÷øÿÿÿÿ
+[
+java:S16126">Replace this lambda with method reference 'Customer::getName'.(Ì×·™8½ë°Ÿƒ1
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+E
+java:S1068	"*Remove this unused "budget" private field.(šÊÿ–üÿÿÿÿ

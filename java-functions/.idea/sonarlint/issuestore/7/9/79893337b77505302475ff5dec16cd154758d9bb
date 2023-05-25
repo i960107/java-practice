@@ -1,0 +1,17 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(ïÑ¬ 
+>
+java:S1604'"(Make this anonymous inner class a lambda(œİÙ©
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”ûËÑ
+V	java:S125"<This block of commented-out lines of code should be removed.(›ßÑÚûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÍı›
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÏ©÷
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜¼µĞ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬¹Şô
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ûüë
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÌÅÂõúÿÿÿÿ
+S
+java:S18544"=Remove this useless assignment to local variable "runnable2".(ü¿©‡
+D
+java:S14814".Remove this unused "runnable2" local variable.(ü¿©‡

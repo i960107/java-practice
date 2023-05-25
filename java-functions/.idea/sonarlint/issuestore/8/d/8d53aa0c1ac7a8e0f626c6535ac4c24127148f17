@@ -1,0 +1,13 @@
+
+h
+java:S1192
+"FDefine a constant instead of duplicating this literal "pos: " 3 times.(ñ­ óüÿÿÿÿ8Ú˜ÄÃ„1
+i
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(àŞĞÂúÿÿÿÿ
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ñ­ óüÿÿÿÿ8¸êÃÃ„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ­ óüÿÿÿÿ8ã˜ÄÃ„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ­ óüÿÿÿÿ8ä˜ÄÃ„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8–üÆÃ„1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8–üÆÃ„1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8—üÆÃ„1
